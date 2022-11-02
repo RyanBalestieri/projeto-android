@@ -142,11 +142,12 @@ aside{
 ul{
     columns: 2;
     width: 100%;
-    list-style-position: inside;
+    box-sizing: border-box;
 }
 li{
     width: 100%;
     list-style-type:"\2714 ";
+    list-style-position: inside;
 }
 footer{
     background-color: rgb(25, 90, 53);
