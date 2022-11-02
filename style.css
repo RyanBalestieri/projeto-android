@@ -142,6 +142,7 @@ aside{
 ul{
     columns: 2;
     width: 100%;
+    list-style-position: inside;
 }
 li{
     width: 100%;
